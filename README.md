@@ -10,3 +10,4 @@ Projeto
 
 Lista de cursos para controlar no GIT
 ***********************************************************************************
+Conheça os comandos do git nesse [link](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
