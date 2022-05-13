@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(135, 232, 235);
+    color: #ffff;
+}
+
+
+h1{
+    padding: 20px;
+    font-size: 30px; 
+}
+.comandos {
+    
+    color: rgb(69, 67, 67);
+    margin: 50px;
+    padding: 50px;
+    font-size: 30px;
+}
