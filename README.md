@@ -1,4 +1,4 @@
-# alura-git
+# 🚀Alura-git
 **********************************************************************************
 
 ![image](https://user-images.githubusercontent.com/72118415/168198908-6de6dfec-4e44-4944-b552-e4b9cfe32e2b.png)
